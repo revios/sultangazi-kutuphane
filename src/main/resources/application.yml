@@ -1,5 +1,5 @@
 spring:
   application:
-    name: first-service
+    name: sultangazi-kutuphane
 server:
   port: 8081
